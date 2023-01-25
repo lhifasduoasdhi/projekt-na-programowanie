@@ -1,0 +1,8 @@
+E:\kodowanie\studia C#\zaliczenie\zaliczenie\bin\Debug\zaliczenie.exe.config
+E:\kodowanie\studia C#\zaliczenie\zaliczenie\bin\Debug\zaliczenie.exe
+E:\kodowanie\studia C#\zaliczenie\zaliczenie\bin\Debug\zaliczenie.pdb
+E:\kodowanie\studia C#\zaliczenie\zaliczenie\obj\Debug\Bank.csproj.AssemblyReference.cache
+E:\kodowanie\studia C#\zaliczenie\zaliczenie\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+E:\kodowanie\studia C#\zaliczenie\zaliczenie\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\kodowanie\studia C#\zaliczenie\zaliczenie\obj\Debug\zaliczenie.exe
+E:\kodowanie\studia C#\zaliczenie\zaliczenie\obj\Debug\zaliczenie.pdb
